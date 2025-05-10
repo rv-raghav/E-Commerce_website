@@ -17,7 +17,7 @@ A fully responsive and interactive **eCommerce website** built using **HTML, CSS
 
 ## 📁 Project Structure
 
-bash
+```bash
 .
 ├── api/                     # (Optional placeholder)
 ├── public/images/           # Product & site images
@@ -29,14 +29,12 @@ bash
 ├── style.css                # Custom CSS styles
 ├── *.js                     # Modular JavaScript files
 └── vite.config.js           # Vite bundler config 
-
+```
 
 #How to Run Locally
 Clone the repo
 
-bash
-Copy
-Edit
+
 git clone https://github.com/rv-raghav/E-Commerce_website.git
 cd E-Commerce_Website
 Install dependencies (if using Vite)
