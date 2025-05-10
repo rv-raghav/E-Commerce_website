@@ -32,15 +32,15 @@ A fully responsive and interactive **eCommerce website** built using **HTML, CSS
 ```
 
 #How to Run Locally
-Clone the repo
+-Clone the repo
 
 
-git clone https://github.com/rv-raghav/E-Commerce_website.git
-cd E-Commerce_Website
-Install dependencies (if using Vite)
+- git clone https://github.com/rv-raghav/E-Commerce_website.git
+- cd E-Commerce_Website
+- Install dependencies (if using Vite)
 
-npm install
-Start development server
+- npm install
+- Start development server
 
-npm run dev
-Open http://localhost:5173 in your browser 🚀
+- npm run dev
+- Open http://localhost:5173 in your browser 🚀
